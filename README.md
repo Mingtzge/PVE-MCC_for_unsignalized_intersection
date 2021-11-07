@@ -1,0 +1,2 @@
+# PVE-MCC_for_unsignalized_intersection
+Aiming at the problem of the traffic efficiency of intelligent networked vehicles passing through unsignalized-intersection in the future smart cities, this paper proposed a Progressive Value-expectation Estimation Multi-agent Cooperative Control (PVE-MCC) algorithm based on reinforcement learning. The algorithm takes the intelligent networked vehicles as the research object and designed the reward function for the optimization objective from the three aspects of traffic efficiency, safety, and comfort.
